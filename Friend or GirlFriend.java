@@ -1,7 +1,9 @@
 //CodeChef April Challenge
 
 /*
-Shlok and Sachin are good friends. Shlok wanted to test Sachin, so he wrote down a string S with length N and one character X. He wants Sachin to find the number of different substrings of S which contain the character X at least once. Sachin is busy with his girlfriend, so he needs you to find the answer.
+Shlok and Sachin are good friends. Shlok wanted to test Sachin, so he wrote down a string S with length N and one character X. 
+He wants Sachin to find the number of different substrings of S which contain the character X at least once. 
+Sachin is busy with his girlfriend, so he needs you to find the answer.
 
 Two substrings of S are considered different if their positions in S are different.
 
